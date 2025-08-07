@@ -14,12 +14,6 @@ A simple, interactive web application that generates a new color palette each ti
 
 ---
 
-##  Demo
-
-<img src="screenshot.png" alt="Color Palette Generator Screenshot" width="600"/>
-
----
-
 ##  Technologies Used
 
 - **HTML5**
